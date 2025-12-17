@@ -1,0 +1,20 @@
+Username: lokesh | Age: 19 | Balance: $3000.00
+Username: cd "/Users/lokeshverma/Downloads/Movie-Ticket-Booking-System-main/" && g++ -std=c++17 DSAPROJECT.cpp -o DSAPROJECT && ./DSAPROJECT | Age: 0 | Balance: $0.00
+Username: lokesh | Age: 19 | Balance: $30000.00
+ditya | Age: 20 | Balance: $2500.00
+ditya | Age: 23 | Balance: $3400.00
+yz | Age: 23 | Balance: $34.00
+tkarsh | Age: 22 | Balance: $24.00
+bc | Age: 43 | Balance: $45.00
+yz | Age: 22 | Balance: $21.00
+yz | Age: 23 | Balance: $34.00
+ditya | Age: 19 | Balance: $0.00
+ditya | Age: 19 | Balance: $200.00
+bc | Age: 19 | Balance: $340.00
+okesh | Age: 19 | Balance: $34.00
+okesh | Age: 19 | Balance: $23.00
+okesh | Age: 19 | Balance: $23.00
+ds | Age: 0 | Balance: $0.00
+dsa | Age: 12 | Balance: $23.00
+f | Age: 3 | Balance: $12334.00
+okesh | Age: 19 | Balance: $20.00
